@@ -12,15 +12,13 @@ on the epidemiology of Rift Valley fever in the archipelago.
 Below we outline the data used to fit the epidemiological model and provide
 a description for the code used to produce out manuscript.
 
----
-
 ## Data
 ### Serological data
 All serological data used was secondary in our study. The Comoros archipelgo consists of the Union of Comoros and Mayotte.
 
 Data for the Union of Comoros was is presented in:
 
-- Roger, M., Girard, S., Faharoudine, A., Halifa, M., Bouloy, M., C^etre-Sossah, C., and Cardinale,
+- Roger, M., Girard, S., Faharoudine, A., Halifa, M., Bouloy, M., Cetre-Sossah, C., and Cardinale,
 E. Rift Valley fever in ruminants, Republic of Comoros, 2009. Emerging infectious diseases, 17(7):
 1319, 2011.
 
@@ -34,7 +32,7 @@ All data for Mayotte has been presented in:
 C., and Cardinale, E. The epidemiology of Rift Valley fever in Mayotte: insights and perspectives
 from 11 years of data. PLoS neglected tropical diseases, 10(6):e0004783, 2016.
 
-- Metras, R., Fournie, G., Dommergues, L., Camacho, A., Cavalerie, L., Merot, P., Keeling, M. J.,
+- Metras, R., Fournie, G., Dommergues, L., Camacho, A., Cavalerie, L., Merot, P., Keeling, M. J.,
 Cetre-Sossah, C., Cardinale, E., and Edmunds, W. J. Drivers for Rift Valley fever emergence in
 Mayotte: a Bayesian modelling approach. PLoS neglected tropical diseases, 11(7):e0005767, 2017.
 
@@ -59,8 +57,6 @@ Normalised Difference Vegetation Index (NDVI) was used to incur time-dependent t
 - `MONTH`: Month of the calendar year.
 - `YEAR`: Calendar year
 - `NDVI`: Value of NDVI at the given location and time point.
-
----
 
 ## Code
 The custom code used in our manuscript was split between `C++` and `R`. The former was used for model fitting and simulation of control scenarios, whereas the latter is used for data visualisation. Please note that for these programs to work correctly, directories need to be appropriately set in the configuration files and script files.
