@@ -1,7 +1,7 @@
-# Supporting data and code for *'Drivers of Rift Valley fever virus persistence and the impact of control measures in a spatially heterogeneous landscape: the case of the Comoros archipelago, 2004--2015'*
+# Supporting data and code for *'Modelling the persistence and control of Rift Valley fever virus in a spatially heterogeneous landscape'*
 
 This repository contains the data and code which were used to produce the
-manuscript *'Drivers of Rift Valley fever virus persistence and the impact of control measures in a spatially heterogeneous landscape: the case of the Comoros archipelago, 2004--2015'*. A preprint for this manuscript
+manuscript *'Modelling the persistence and control of Rift Valley fever virus in a spatially heterogeneous landscape'*. A preprint for this manuscript
 will be available shortly.
 
 In our manuscript, we fitted an epidemiological model to Rift Valley fever surveillance data conducted
