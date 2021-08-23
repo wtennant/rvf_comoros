@@ -1,8 +1,9 @@
 # Supporting data and code for *'Modelling the persistence and control of Rift Valley fever virus in a spatially heterogeneous landscape'*
 
 This repository contains the data and code which were used to produce the
-manuscript *'Modelling the persistence and control of Rift Valley fever virus in a spatially heterogeneous landscape'*. A preprint for this manuscript
-will be available shortly.
+manuscript *'Modelling the persistence and control of Rift Valley fever virus in a spatially heterogeneous landscape'*.
+
+The DOI URL for this repository is https://doi.org/10.5281/zenodo.5234877
 
 In our manuscript, we fitted an epidemiological model to Rift Valley fever surveillance data conducted
 in livestock across the Comoros archipelago between 2004 and 2015. Using a fitted
